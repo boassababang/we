@@ -171,7 +171,7 @@
         </div>
 
         <nav class="sidebar-nav">
-            <a href="javascript:void(0)" onclick="enterVault()" style="background: rgba(0,242,255,0.1);"><i class="fas fa-key"></i> Editor Vault (887321)</a>
+            <a href="javascript:void(0)" onclick="enterVault()" style="background: rgba(0,242,255,0.1);"><i class="fas fa-key"></i> Editor Vault </a>
             <a href="javascript:void(0)" onclick="filterCategory('Internasional')"><i class="fas fa-globe"></i> Internasional</a>
             <a href="javascript:void(0)" onclick="filterCategory('Politik')"><i class="fas fa-landmark"></i> Politik</a>
             <a href="javascript:void(0)" onclick="filterCategory('Opini')"><i class="fas fa-pen-nib"></i> Opini</a>
